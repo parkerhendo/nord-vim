@@ -16,7 +16,7 @@ let g:colors_name = "nord"
 let s:nord_vim_version="0.19.0"
 set background=dark
 
-let s:nord0_gui = "#232730"
+let s:nord0_gui = "#1F2228"
 let s:nord1_gui = "#2e3440"
 let s:nord2_gui = "#3b4252"
 let s:nord3_gui = "#434c5e"
